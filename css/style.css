@@ -1,0 +1,18 @@
+body {
+	background: #98C1C8;
+	margin: 0px;
+}
+
+#container {
+	background: #ef3465;
+	width: 85%;
+	margin: auto;
+	padding: 20px;
+}
+
+h1 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	border-bottom: 2px dotted #000;
+    margin:center;
+}
+
