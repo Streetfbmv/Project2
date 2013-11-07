@@ -1,10 +1,11 @@
+/*Zach Jones created this project on 10/17/2013*/
 body {
-	background: #98C1C8;
+	background: #00bdf4;
 	margin: 0px;
 }
 
 #container {
-	background: #ef3465;
+	background: #fff200;
 	width: 85%;
 	margin: auto;
 	padding: 20px;
@@ -14,5 +15,29 @@ h1 {
 	font-family: "Arial Black", Gadget, sans-serif;
 	border-bottom: 2px dotted #000;
     margin:center;
+    text-align:center;
+        
 }
 
+#myCanv{
+    width:1024px;
+    height:512px;
+    margin:auto;
+        
+}
+
+h1 img{
+    margin-left:-13px;
+    margin-top:-110px;
+    margin-bottom:-5px;
+    width:190px;
+    height:137px;
+}
+
+#points{
+    width:1024px;
+    margin:auto;
+    font-weight:bold;
+        
+
+}
